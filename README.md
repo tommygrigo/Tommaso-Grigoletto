@@ -1,5 +1,3 @@
-Hello my name is
-# Tommaso Grigoletto
 This website acts as my online resume.
 
 ## About me
